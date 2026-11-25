@@ -10,5 +10,5 @@
 
 **Tempo**:
 
-  L'API per generare una singola immagine impiega circa 3 secondi, mentre per generare un video di 5 secondi impiega 4-5 minuti.
+  L'API per generare una singola immagine impiega circa 3 secondi, mentre per generare un video di 5 secondi impiega 1-2 minuti.
   Per andare in avanti nella coda si può pagare un supplemento di 0.1$ per ogni richiesta superata
