@@ -6,8 +6,7 @@
 - 1'000 foto 4k: 5$
 - 2'500 foto 4k: 10$
 - 5'000 foto 4k: 15$
-- 1 min di video: 2$
-- 1 ora di video 1080p: 50$
+- 1 min di video: 1$
 
 **Tempo**:
 
